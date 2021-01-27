@@ -43,6 +43,15 @@
 				<div class="inner">
 					<div class="box">
 						
+						<p style="text-indent: justify; text-justify: inter-word;">Cloud Computing merupakan istilah dari Cloud diartikan sebagai internet dan Computing diartikan sebagai komputer. Definisi dari Cloud Computing adalah sebuah proses pengolahan daya komputasi  melalui jaringan internet  yang memiliki fungsi agar dapat menjalankan program melalui komputer yang telah terkoneksi satu sama lain pada waktu yang sama. </p>
+						<p style="text-indent: justify; text-justify: inter-word;"> Cloud Computing merupakan sebuah teknologi yang menjadikan internet sebagai pusat server untuk mengelola data dan juga aplikasi pengguna. Cloud Computing memudahkan penggunanya untuk menjalankan program tanpa harus menginstall aplikasi terlebih dahulu dan memudahkan pengguna untuk mengakses data dan 
+						informasi melalui internet.</p>
+						<h2>Cara Kerja Cloud Computing</h2>
+						<p style="text-indent: justify; text-justify: inter-word;">Teknologi Cloud Computing ini menjadikan internet sebagai pusat server dalam mengelelola data. Sistem ini memudahkan pengguna untuk login ke internet agar mendapatkan akses untuk menjalankan program atau aplikasi tanpa harus menginstall aplikasi tersebut.</p> 
+						<p style="text-indent: justify; text-justify: inter-word;">Karena tidak perlu melakukan installasi pada aplikasi, maka untuk media penyimpanan data dari pengguna juga disimpan secara virtual sehingga tidak akan terbebani dengan penggunaan memori yang ada di komputer. Peritah – perintah yang digunakan oleh pengguna tadi  selanjutnya akan dilanjutkan ke server aplikasi.</p>
+						<p style="text-indent: justify; text-justify: inter-word;">Setelah perintah diterima oleh sever aplikasi, maka data akan diproses yang akhirnya pengguna akan menerima halaman yang telah diperbaharui sesuai dengan perintah yang telah diberikan sebelumnya. Contoh dari Cloud Computing adalah Yahoo, PDF Gmail, Google Drive.</p>
+						<p style="text-indent: justify; text-justify: inter-word;">Perintah yang diberikan dalam penggunaan aplikasi tersebut akan langsung terintegrasi secara langsung dengan sistem Cloud Computing yang ada di komputer. Pengguna hanya memerlukan jaringan internet agar dapat menjalankan aplikasi tersebut tanpa perlu melakukan instalasi.</p>
+						
 					</div>
 				</div>
 			</section>
