@@ -22,9 +22,9 @@
 		<!-- Nav -->
 			<nav id="menu">
 				<ul class="links">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="generic.html">Cloud Cumputing</a></li>
-					<li><a href="elements.html">About</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="generic.php">Cloud Cumputing</a></li>
+					<li><a href="elements.php">About</a></li>
 				</ul>
 			</nav>
 
